@@ -1,0 +1,4 @@
+interface:
+  display_name: "格知教育专业篇课程研发"
+  short_description: "专业咨询及专业篇PPT内容稿与逐字讲解稿研发专业助手"
+  default_prompt: "Use $gezhi-major-ppt to整理一个专业的PPT内容稿和逐页逐字讲解稿。"
