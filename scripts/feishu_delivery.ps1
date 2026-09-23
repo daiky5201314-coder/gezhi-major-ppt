@@ -20,11 +20,13 @@ function Invoke-Lark {
     $argv = @($Arguments) + @('--profile', $ProfileName, '--as', 'user')
     if (-not $NoFormat) { $argv += @('--format', 'json') }
     $output = & lark-cli @argv
-    if ($LASTEXITCODE -ne 0) { throw "飞书 CLI 命令失败：$($Arguments -join ' ')" }
+    if ($LASTEXITCODE -ne 0) {
+        throw "飞书 CLI 命令失败（退出码 $LASTEXITCODE）：$($Arguments -join ' ')；详情：$(($output -join "`n"))"
+    }
     try { $result = ($output -join "`n") | ConvertFrom-Json -Depth 100 }
     catch { throw '飞书 CLI 未返回有效 JSON' }
     if (-not $NoFormat -and ($result.ok -ne $true -or $result.identity -ne 'user')) {
-        throw "飞书 CLI 返回未成功或身份不符：$($Arguments -join ' ')"
+        throw "飞书 CLI 返回未成功或身份不符：$($Arguments -join ' ')；详情：$(($result | ConvertTo-Json -Depth 8 -Compress))"
     }
     return $result
 }
