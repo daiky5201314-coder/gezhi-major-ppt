@@ -15,6 +15,18 @@ $ExpectedOpenId = 'ou_96b49f9068b07cda299a45291051b7c5'
 $Domain = 'https://gezhiedu.feishu.cn'
 $Kinds = @('PPT内容稿', '逐字讲解稿', '资料来源与核验表')
 
+function Get-CatalogDigest {
+    # Git stores this UTF-8 Markdown with LF; Windows may check it out with CRLF.
+    $raw = [System.IO.File]::ReadAllBytes($CatalogPath)
+    $normalized = [System.Collections.Generic.List[byte]]::new($raw.Length)
+    for ($i = 0; $i -lt $raw.Length; $i++) {
+        if ($raw[$i] -eq 13 -and $i + 1 -lt $raw.Length -and $raw[$i + 1] -eq 10) { continue }
+        $normalized.Add($raw[$i])
+    }
+    $hash = [System.Security.Cryptography.SHA256]::HashData($normalized.ToArray())
+    return [Convert]::ToHexString($hash).ToLowerInvariant()
+}
+
 function Invoke-Lark {
     param([string[]]$Arguments, [switch]$NoFormat)
     $argv = @($Arguments) + @('--profile', $ProfileName, '--as', 'user')
@@ -110,7 +122,7 @@ function New-Snapshot {
     }
     $result = [pscustomobject]@{
         catalog_year = 2026
-        catalog_sha256 = (Get-FileHash -LiteralPath $CatalogPath -Algorithm SHA256).Hash.ToLowerInvariant()
+        catalog_sha256 = Get-CatalogDigest
         profile = $ProfileName
         expected_user_open_id = $ExpectedOpenId
         root = [pscustomobject]@{ name = '专业库资料制作过程文件夹'; token = $RootToken; url = "$Domain/drive/folder/$RootToken" }
@@ -126,7 +138,7 @@ function Send-CourseFiles {
     if (-not $Files -or $Files.Count -gt 3) { throw '须提供 1 至 3 份稿件' }
     $catalog = @(Read-Catalog)
     $folderMap = Get-Content -LiteralPath $MapPath -Raw -Encoding UTF8 | ConvertFrom-Json -Depth 100
-    $digest = (Get-FileHash -LiteralPath $CatalogPath -Algorithm SHA256).Hash.ToLowerInvariant()
+    $digest = Get-CatalogDigest
     if ($folderMap.catalog_sha256 -ne $digest -or $folderMap.root.token -ne $RootToken -or
         $folderMap.profile -ne $ProfileName -or $folderMap.expected_user_open_id -ne $ExpectedOpenId) {
         throw '目录 Markdown 与飞书映射不一致，须重新核对目录快照'

@@ -8,6 +8,14 @@ import feishu_route_guard as guard
 
 
 class RouteGuardTests(unittest.TestCase):
+    def test_catalog_hash_ignores_checkout_line_endings(self):
+        raw = guard.CATALOG.read_bytes()
+        lf = raw.replace(b"\r\n", b"\n")
+        crlf = lf.replace(b"\n", b"\r\n")
+        expected = guard.read_json(guard.MAPPING)["catalog_sha256"]
+        self.assertEqual(guard.catalog_digest(lf), expected)
+        self.assertEqual(guard.catalog_digest(crlf), expected)
+
     def test_every_catalog_class_has_unique_target(self):
         mapping = guard.read_json(guard.MAPPING)
         routes = [guard.route(item["code"]) for category in mapping["categories"] for item in category["classes"]]

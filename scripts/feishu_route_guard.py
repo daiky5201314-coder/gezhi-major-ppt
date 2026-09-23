@@ -28,6 +28,11 @@ def read_json(path):
     return json.loads(Path(path).read_text(encoding="utf-8-sig"))
 
 
+def catalog_digest(data):
+    """Hash the Git LF representation, independent of checkout line endings."""
+    return hashlib.sha256(data.replace(b"\r\n", b"\n")).hexdigest()
+
+
 def catalog_entries():
     entries = {}
     category = None
@@ -51,7 +56,7 @@ def catalog_entries():
 
 def route(value):
     mapping = read_json(MAPPING)
-    digest = hashlib.sha256(CATALOG.read_bytes()).hexdigest()
+    digest = catalog_digest(CATALOG.read_bytes())
     if mapping.get("catalog_sha256") != digest or mapping.get("catalog_year") != 2026:
         fail("目录与飞书映射不一致；停止上传并更新映射")
     entries = catalog_entries()
