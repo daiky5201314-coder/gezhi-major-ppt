@@ -1,0 +1,1404 @@
+{
+  "catalog_year": 2026,
+  "catalog_sha256": "ccdb9006095454559a12dd45754022e20567ad7e66c6543a19d9662f1764f396",
+  "profile": "GEGZI",
+  "expected_user_open_id": "ou_96b49f9068b07cda299a45291051b7c5",
+  "root": {
+    "name": "专业库资料制作过程文件夹",
+    "token": "FE7ofFTbwlTthEdwo1mcdrcknRc",
+    "url": "https://gezhiedu.feishu.cn/drive/folder/FE7ofFTbwlTthEdwo1mcdrcknRc"
+  },
+  "categories": [
+    {
+      "code": "01",
+      "name": "哲学",
+      "token": "KwvRfXSY6lNxCAdL1NUcnnClnkf",
+      "url": "https://gezhiedu.feishu.cn/drive/folder/KwvRfXSY6lNxCAdL1NUcnnClnkf",
+      "classes": [
+        {
+          "code": "0101",
+          "name": "哲学类",
+          "token": "RQsBfVl4ZltyxWdQ9VEcDlIynYd",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/RQsBfVl4ZltyxWdQ9VEcDlIynYd",
+          "content": {
+            "token": "EcREfWe9Rl0sRedtmwZctcc7ne6",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/EcREfWe9Rl0sRedtmwZctcc7ne6"
+          },
+          "ppt": {
+            "token": "Qe39f4uiQlmTa6dfAdbcmHMgnFc",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Qe39f4uiQlmTa6dfAdbcmHMgnFc"
+          }
+        }
+      ]
+    },
+    {
+      "code": "02",
+      "name": "经济学",
+      "token": "J8MTfiBsslVpl4d3WtPcCjXVn7d",
+      "url": "https://gezhiedu.feishu.cn/drive/folder/J8MTfiBsslVpl4d3WtPcCjXVn7d",
+      "classes": [
+        {
+          "code": "0201",
+          "name": "经济学类",
+          "token": "XxpvfEKNAlAe8zdTFVzcG0jxnPf",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/XxpvfEKNAlAe8zdTFVzcG0jxnPf",
+          "content": {
+            "token": "CYx6ff2WylOpUydZ4u1cnZBWnDd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/CYx6ff2WylOpUydZ4u1cnZBWnDd"
+          },
+          "ppt": {
+            "token": "ZkTyfBka9lnlQ3dHjK6cvQgcnad",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/ZkTyfBka9lnlQ3dHjK6cvQgcnad"
+          }
+        },
+        {
+          "code": "0202",
+          "name": "财政学类",
+          "token": "T46lfAQHPlrSlrdMGv2cuiBdnGh",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/T46lfAQHPlrSlrdMGv2cuiBdnGh",
+          "content": {
+            "token": "I3hIfhDE1lpi8DdjjMIcyL6inyg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/I3hIfhDE1lpi8DdjjMIcyL6inyg"
+          },
+          "ppt": {
+            "token": "SVaYfghehlaUgFdcoIzcp2hWnOw",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/SVaYfghehlaUgFdcoIzcp2hWnOw"
+          }
+        },
+        {
+          "code": "0203",
+          "name": "金融学类",
+          "token": "UXPgfOYyKlx0GxdOjcLcYPWjnyd",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/UXPgfOYyKlx0GxdOjcLcYPWjnyd",
+          "content": {
+            "token": "UZIgfnlisljWzxdHBM3cjygBnxh",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/UZIgfnlisljWzxdHBM3cjygBnxh"
+          },
+          "ppt": {
+            "token": "I3Yefh1Vyl0LLBdeBHbcfSL7nof",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/I3Yefh1Vyl0LLBdeBHbcfSL7nof"
+          }
+        },
+        {
+          "code": "0204",
+          "name": "经济与贸易类",
+          "token": "CkjWfRvzwlEWbkdfR0TcZw4Nnjh",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/CkjWfRvzwlEWbkdfR0TcZw4Nnjh",
+          "content": {
+            "token": "T9mofaNqllA0GsdoKKpc6TTSnRf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/T9mofaNqllA0GsdoKKpc6TTSnRf"
+          },
+          "ppt": {
+            "token": "QhYff2h8Elm4NIdqQh3cHj6an4g",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/QhYff2h8Elm4NIdqQh3cHj6an4g"
+          }
+        }
+      ]
+    },
+    {
+      "code": "03",
+      "name": "法学",
+      "token": "Co5FfOHHSlcXGJdtEOWcq1Nbnzh",
+      "url": "https://gezhiedu.feishu.cn/drive/folder/Co5FfOHHSlcXGJdtEOWcq1Nbnzh",
+      "classes": [
+        {
+          "code": "0301",
+          "name": "法学类",
+          "token": "Sw2PfSdTyl3f6ndAyKTc1Xg1nXg",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/Sw2PfSdTyl3f6ndAyKTc1Xg1nXg",
+          "content": {
+            "token": "VFKXfMdc1lnTmOdJ5mbcmCK5nZf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/VFKXfMdc1lnTmOdJ5mbcmCK5nZf"
+          },
+          "ppt": {
+            "token": "JmmSf6ZDzlYIfgdmgzAc5TJ4n6b",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/JmmSf6ZDzlYIfgdmgzAc5TJ4n6b"
+          }
+        },
+        {
+          "code": "0302",
+          "name": "政治学类",
+          "token": "GVCbfTfeJlnw29dpxCrcHvScnqg",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/GVCbfTfeJlnw29dpxCrcHvScnqg",
+          "content": {
+            "token": "G7l9fMULBl1JK9dABpgcoJEUn05",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/G7l9fMULBl1JK9dABpgcoJEUn05"
+          },
+          "ppt": {
+            "token": "Z9DifSLwxlDX5VdYlemc0kNWn6b",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Z9DifSLwxlDX5VdYlemc0kNWn6b"
+          }
+        },
+        {
+          "code": "0303",
+          "name": "社会学类",
+          "token": "AAc0f2ZcHlGDuHd0nMpc8CQGndf",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/AAc0f2ZcHlGDuHd0nMpc8CQGndf",
+          "content": {
+            "token": "HDzRfc2WdlBdoidT7z5cXm7anZc",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/HDzRfc2WdlBdoidT7z5cXm7anZc"
+          },
+          "ppt": {
+            "token": "O1KFfDx6nlzYuedz5n5cFOU6nff",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/O1KFfDx6nlzYuedz5n5cFOU6nff"
+          }
+        },
+        {
+          "code": "0304",
+          "name": "民族学类",
+          "token": "EhrFfjNPPl2ChAddlWpc6OiqnKB",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/EhrFfjNPPl2ChAddlWpc6OiqnKB",
+          "content": {
+            "token": "I6sqfusOulHaM4dAiPWcqD6MnOe",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/I6sqfusOulHaM4dAiPWcqD6MnOe"
+          },
+          "ppt": {
+            "token": "QeupfmLqbl1XH3dEgLnciwxLnqh",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/QeupfmLqbl1XH3dEgLnciwxLnqh"
+          }
+        },
+        {
+          "code": "0305",
+          "name": "马克思主义理论类",
+          "token": "GQBtfFJ7tl1HCmd3UcBcFtupn5c",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/GQBtfFJ7tl1HCmd3UcBcFtupn5c",
+          "content": {
+            "token": "RlEkfkaiwl9fWQdSfD4cfg2inoe",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/RlEkfkaiwl9fWQdSfD4cfg2inoe"
+          },
+          "ppt": {
+            "token": "WRHZfMtMFlcTD7dxTY4cqNAGnYb",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/WRHZfMtMFlcTD7dxTY4cqNAGnYb"
+          }
+        },
+        {
+          "code": "0306",
+          "name": "公安学类",
+          "token": "XrjVfKe8BlDruAd7IkCccEIunCc",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/XrjVfKe8BlDruAd7IkCccEIunCc",
+          "content": {
+            "token": "WxzUfNfN7l11iwdKyvdcrDs3nSh",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/WxzUfNfN7l11iwdKyvdcrDs3nSh"
+          },
+          "ppt": {
+            "token": "BZbDf3ZhClp4vjdtyfXcOAqynSb",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/BZbDf3ZhClp4vjdtyfXcOAqynSb"
+          }
+        }
+      ]
+    },
+    {
+      "code": "04",
+      "name": "教育学",
+      "token": "L8Awfm5yUlj5UxdPlLJcxtzbnzf",
+      "url": "https://gezhiedu.feishu.cn/drive/folder/L8Awfm5yUlj5UxdPlLJcxtzbnzf",
+      "classes": [
+        {
+          "code": "0401",
+          "name": "教育学类",
+          "token": "JqEqfjpW2lLfdmd0Sr6cFJpVndb",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/JqEqfjpW2lLfdmd0Sr6cFJpVndb",
+          "content": {
+            "token": "QCdGfkcI3lMkjydS8edc2kwknIf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/QCdGfkcI3lMkjydS8edc2kwknIf"
+          },
+          "ppt": {
+            "token": "BZG0f1Fi7l1dySd3pxJc1esVn1f",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/BZG0f1Fi7l1dySd3pxJc1esVn1f"
+          }
+        },
+        {
+          "code": "0402",
+          "name": "体育学类",
+          "token": "EjiOfYwtmlwjobdRRSocCrkanSd",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/EjiOfYwtmlwjobdRRSocCrkanSd",
+          "content": {
+            "token": "GBTcfSPNmluhztdAjjWc2c9mnWg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/GBTcfSPNmluhztdAjjWc2c9mnWg"
+          },
+          "ppt": {
+            "token": "KHw0fgeUql0rGgdDdUFcXZzin4f",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/KHw0fgeUql0rGgdDdUFcXZzin4f"
+          }
+        }
+      ]
+    },
+    {
+      "code": "05",
+      "name": "文学",
+      "token": "KhuefYC91lI3gydcsGGcNy1ZnOd",
+      "url": "https://gezhiedu.feishu.cn/drive/folder/KhuefYC91lI3gydcsGGcNy1ZnOd",
+      "classes": [
+        {
+          "code": "0501",
+          "name": "中国语言文学类",
+          "token": "P0TJfAq9RlbIHWdEgoGcy2LLnsg",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/P0TJfAq9RlbIHWdEgoGcy2LLnsg",
+          "content": {
+            "token": "NaeKfZyRTlogurdlMstccp7snge",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/NaeKfZyRTlogurdlMstccp7snge"
+          },
+          "ppt": {
+            "token": "Qq7rfIJ3Xln2iaddZxdcxNuvnJh",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Qq7rfIJ3Xln2iaddZxdcxNuvnJh"
+          }
+        },
+        {
+          "code": "0502",
+          "name": "外国语言文学类",
+          "token": "MTGif1Pg9lotebdrHE8cgr0Qn0c",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/MTGif1Pg9lotebdrHE8cgr0Qn0c",
+          "content": {
+            "token": "T4oYfrEuNlbEpgdfe03crAZmnGe",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/T4oYfrEuNlbEpgdfe03crAZmnGe"
+          },
+          "ppt": {
+            "token": "M2vxfLculll9dmdDUp8cmA2hnXd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/M2vxfLculll9dmdDUp8cmA2hnXd"
+          }
+        },
+        {
+          "code": "0503",
+          "name": "新闻传播学类",
+          "token": "L8BQfNym1lWWyDdcgYacPuQ4nvg",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/L8BQfNym1lWWyDdcgYacPuQ4nvg",
+          "content": {
+            "token": "XSNvftgjcl6CKmdBhUWc4qVincg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/XSNvftgjcl6CKmdBhUWc4qVincg"
+          },
+          "ppt": {
+            "token": "MZnIfA56eltfr9dQbbwcmasHnCh",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/MZnIfA56eltfr9dQbbwcmasHnCh"
+          }
+        }
+      ]
+    },
+    {
+      "code": "06",
+      "name": "历史学",
+      "token": "Cl3fflKnJlekKPdoo4sc0Y0dnNd",
+      "url": "https://gezhiedu.feishu.cn/drive/folder/Cl3fflKnJlekKPdoo4sc0Y0dnNd",
+      "classes": [
+        {
+          "code": "0601",
+          "name": "历史学类",
+          "token": "Cml1fFPO9lxxeldEYKRc6aU8n0e",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/Cml1fFPO9lxxeldEYKRc6aU8n0e",
+          "content": {
+            "token": "WwWMfl1GelhscuddXylcsByBnQj",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/WwWMfl1GelhscuddXylcsByBnQj"
+          },
+          "ppt": {
+            "token": "IshofYqrjlCsAgdijfscfeiKnfh",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/IshofYqrjlCsAgdijfscfeiKnfh"
+          }
+        }
+      ]
+    },
+    {
+      "code": "07",
+      "name": "理学",
+      "token": "E8R5fM0fJlTjU4dDoMzcfjyQnpd",
+      "url": "https://gezhiedu.feishu.cn/drive/folder/E8R5fM0fJlTjU4dDoMzcfjyQnpd",
+      "classes": [
+        {
+          "code": "0701",
+          "name": "数学类",
+          "token": "Dt7jf1eThlqSLudW7J6c2rLMn6e",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/Dt7jf1eThlqSLudW7J6c2rLMn6e",
+          "content": {
+            "token": "OVw7fjIUrlcPePdmJf3cOoy4nxf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/OVw7fjIUrlcPePdmJf3cOoy4nxf"
+          },
+          "ppt": {
+            "token": "Q7Qqf5mYslWSKIdy6f6cgV82nhf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Q7Qqf5mYslWSKIdy6f6cgV82nhf"
+          }
+        },
+        {
+          "code": "0702",
+          "name": "物理学类",
+          "token": "YOzAf8lQfl6892dSeeicEEGLnDb",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/YOzAf8lQfl6892dSeeicEEGLnDb",
+          "content": {
+            "token": "LyslfhAyclWfQddJu1PcLAj2nTf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/LyslfhAyclWfQddJu1PcLAj2nTf"
+          },
+          "ppt": {
+            "token": "IEtgframRldmFCdZZHRcU4m6nvK",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/IEtgframRldmFCdZZHRcU4m6nvK"
+          }
+        },
+        {
+          "code": "0703",
+          "name": "化学类",
+          "token": "UVwGfCAoClhY99dYn1KcprCgnid",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/UVwGfCAoClhY99dYn1KcprCgnid",
+          "content": {
+            "token": "UgSLf4WL7lC1FDdtbaKcRogVnGf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/UgSLf4WL7lC1FDdtbaKcRogVnGf"
+          },
+          "ppt": {
+            "token": "J6qgfHYAQluqEfdCxp9cfrj4nlf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/J6qgfHYAQluqEfdCxp9cfrj4nlf"
+          }
+        },
+        {
+          "code": "0704",
+          "name": "天文学类",
+          "token": "VxBBfvDLVlV0iwdg1O4c9Fs4nUh",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/VxBBfvDLVlV0iwdg1O4c9Fs4nUh",
+          "content": {
+            "token": "Hb1GfUAw4lSwAXdfDQVcWZvcncb",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Hb1GfUAw4lSwAXdfDQVcWZvcncb"
+          },
+          "ppt": {
+            "token": "SZEdfLZyZlJcAIdzEjKcuKRfnWc",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/SZEdfLZyZlJcAIdzEjKcuKRfnWc"
+          }
+        },
+        {
+          "code": "0705",
+          "name": "地理科学类",
+          "token": "WIx8fPzZYlvwRpdhCy8cSLj4nMb",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/WIx8fPzZYlvwRpdhCy8cSLj4nMb",
+          "content": {
+            "token": "S5OrfpbNSlaqSpdRqp9c7oWZnLb",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/S5OrfpbNSlaqSpdRqp9c7oWZnLb"
+          },
+          "ppt": {
+            "token": "QX5AfvWq3ld7cQd8xbJcUt63nMf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/QX5AfvWq3ld7cQd8xbJcUt63nMf"
+          }
+        },
+        {
+          "code": "0706",
+          "name": "大气科学类",
+          "token": "InNtfNpzslyjWkdEX6kcZUHtnbh",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/InNtfNpzslyjWkdEX6kcZUHtnbh",
+          "content": {
+            "token": "AibsfFDuzlbmlxdhyGfcyy33nOh",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/AibsfFDuzlbmlxdhyGfcyy33nOh"
+          },
+          "ppt": {
+            "token": "FJdWfG8H7laYkGdPxejcLu4mnLh",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/FJdWfG8H7laYkGdPxejcLu4mnLh"
+          }
+        },
+        {
+          "code": "0707",
+          "name": "海洋科学类",
+          "token": "WDZzfMqsOlyb7bdSufRcyZ6tnJf",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/WDZzfMqsOlyb7bdSufRcyZ6tnJf",
+          "content": {
+            "token": "AjP0fvYSolwGWYd5JzPcGMhenL2",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/AjP0fvYSolwGWYd5JzPcGMhenL2"
+          },
+          "ppt": {
+            "token": "VN9ZfPuiElWZNfdjAv8cymOanug",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/VN9ZfPuiElWZNfdjAv8cymOanug"
+          }
+        },
+        {
+          "code": "0708",
+          "name": "地球物理学类",
+          "token": "QWcxfnbqYlZR5Ud0OF6cnBkFnMd",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/QWcxfnbqYlZR5Ud0OF6cnBkFnMd",
+          "content": {
+            "token": "AN4gf9ALmlRzKHd5j15cAX9AnJf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/AN4gf9ALmlRzKHd5j15cAX9AnJf"
+          },
+          "ppt": {
+            "token": "OXqjf13Bjl3VDTd5gNCcX5WqnNg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/OXqjf13Bjl3VDTd5gNCcX5WqnNg"
+          }
+        },
+        {
+          "code": "0709",
+          "name": "地质学类",
+          "token": "UMJafHM5AlgV6SdOa3JcOLLFnht",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/UMJafHM5AlgV6SdOa3JcOLLFnht",
+          "content": {
+            "token": "NcizfSkaNli8zWdpwFEcmd6Znqe",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/NcizfSkaNli8zWdpwFEcmd6Znqe"
+          },
+          "ppt": {
+            "token": "Qv9TfSpSIlpMrAdV1sAcqXH3nrd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Qv9TfSpSIlpMrAdV1sAcqXH3nrd"
+          }
+        },
+        {
+          "code": "0710",
+          "name": "生物科学类",
+          "token": "OJPzfUgsulGMECdPlEccQsNengg",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/OJPzfUgsulGMECdPlEccQsNengg",
+          "content": {
+            "token": "PomXf1bcElCFbQdA4dWcMOdQn3e",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/PomXf1bcElCFbQdA4dWcMOdQn3e"
+          },
+          "ppt": {
+            "token": "XzbBfudjzliIa6dOzNAcHJBEnsf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/XzbBfudjzliIa6dOzNAcHJBEnsf"
+          }
+        },
+        {
+          "code": "0711",
+          "name": "心理学类",
+          "token": "ZXHIf9ESblSVI8dmqMtcWAuznhd",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/ZXHIf9ESblSVI8dmqMtcWAuznhd",
+          "content": {
+            "token": "UGW7fWAJUluZgjdVpWmc0uVVnAc",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/UGW7fWAJUluZgjdVpWmc0uVVnAc"
+          },
+          "ppt": {
+            "token": "E1HFfif0Bl2y15de2QJcv3iknof",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/E1HFfif0Bl2y15de2QJcv3iknof"
+          }
+        },
+        {
+          "code": "0712",
+          "name": "统计学类",
+          "token": "EUHbfWh67lM6qXdGFXKcTVGbnCj",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/EUHbfWh67lM6qXdGFXKcTVGbnCj",
+          "content": {
+            "token": "TBttfPl3blfrsgd8eiicQe9Fnyd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/TBttfPl3blfrsgd8eiicQe9Fnyd"
+          },
+          "ppt": {
+            "token": "HAFef3R6alTBVHdWuPscT4H1nce",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/HAFef3R6alTBVHdWuPscT4H1nce"
+          }
+        }
+      ]
+    },
+    {
+      "code": "08",
+      "name": "工学",
+      "token": "JP1zfo9oPlSKXsdyLKWc70ybnvh",
+      "url": "https://gezhiedu.feishu.cn/drive/folder/JP1zfo9oPlSKXsdyLKWc70ybnvh",
+      "classes": [
+        {
+          "code": "0801",
+          "name": "力学类",
+          "token": "TUFofzOVglpequdC2hAcEwWgnOd",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/TUFofzOVglpequdC2hAcEwWgnOd",
+          "content": {
+            "token": "R09YfhnDrlckLmdYLs7cYyNlndd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/R09YfhnDrlckLmdYLs7cYyNlndd"
+          },
+          "ppt": {
+            "token": "I4N8fNZUZlDIvldgH4scY61Fnib",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/I4N8fNZUZlDIvldgH4scY61Fnib"
+          }
+        },
+        {
+          "code": "0802",
+          "name": "机械类",
+          "token": "I7s6fwnOMlDnLGdxmLFcDYlQnrZ",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/I7s6fwnOMlDnLGdxmLFcDYlQnrZ",
+          "content": {
+            "token": "BLf2fCorDlkriddrFdtc9jh9nth",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/BLf2fCorDlkriddrFdtc9jh9nth"
+          },
+          "ppt": {
+            "token": "M78Yf4LJjl6Cu6dVyZ6czfCNnIf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/M78Yf4LJjl6Cu6dVyZ6czfCNnIf"
+          }
+        },
+        {
+          "code": "0803",
+          "name": "仪器类",
+          "token": "VuuTfx0hDlEqk4d3Tm3cy1dznzd",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/VuuTfx0hDlEqk4d3Tm3cy1dznzd",
+          "content": {
+            "token": "HfFAfd0eTliMaCdb5Qocc13EnIb",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/HfFAfd0eTliMaCdb5Qocc13EnIb"
+          },
+          "ppt": {
+            "token": "OcYtfHHSklsL7IdgmkjcF5vRnBb",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/OcYtfHHSklsL7IdgmkjcF5vRnBb"
+          }
+        },
+        {
+          "code": "0804",
+          "name": "材料类",
+          "token": "HhjSfiJt6l2dqGd3We6cyXuCnTf",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/HhjSfiJt6l2dqGd3We6cyXuCnTf",
+          "content": {
+            "token": "ALdvfJxMglnVSpdc8rAcYC29nng",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/ALdvfJxMglnVSpdc8rAcYC29nng"
+          },
+          "ppt": {
+            "token": "KkEAf77lqlzHExdUeQLcTOQinIg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/KkEAf77lqlzHExdUeQLcTOQinIg"
+          }
+        },
+        {
+          "code": "0805",
+          "name": "能源动力类",
+          "token": "ZQ4AftSt4lyaF4dniX6cqdQqnkd",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/ZQ4AftSt4lyaF4dniX6cqdQqnkd",
+          "content": {
+            "token": "FmhXf3IY5lFYrOdxfIMc0wUHnBe",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/FmhXf3IY5lFYrOdxfIMc0wUHnBe"
+          },
+          "ppt": {
+            "token": "EDspfGeeRlI9dwdg49UcuDcxnLg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/EDspfGeeRlI9dwdg49UcuDcxnLg"
+          }
+        },
+        {
+          "code": "0806",
+          "name": "电气类",
+          "token": "ReCnfrCIilTWIFdRDAFc25hHnrc",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/ReCnfrCIilTWIFdRDAFc25hHnrc",
+          "content": {
+            "token": "AWYZf3oiKlSi3KdGfOyczn3Wnlh",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/AWYZf3oiKlSi3KdGfOyczn3Wnlh"
+          },
+          "ppt": {
+            "token": "XWU0fZrA1lNwAjdik2CcHgQmnbf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/XWU0fZrA1lNwAjdik2CcHgQmnbf"
+          }
+        },
+        {
+          "code": "0807",
+          "name": "电子信息类",
+          "token": "Al4yfJlHElfycVdZlblcrx8dntC",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/Al4yfJlHElfycVdZlblcrx8dntC",
+          "content": {
+            "token": "QllRfEx0LlF92Yd2coYcNL4xnjc",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/QllRfEx0LlF92Yd2coYcNL4xnjc"
+          },
+          "ppt": {
+            "token": "TgxAffrfXlAGMwdNGnQcPnXTneg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/TgxAffrfXlAGMwdNGnQcPnXTneg"
+          }
+        },
+        {
+          "code": "0808",
+          "name": "自动化类",
+          "token": "Ew0xfJAU6lCuDtd8vwycwNmRnAg",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/Ew0xfJAU6lCuDtd8vwycwNmRnAg",
+          "content": {
+            "token": "FxUfflmeplS1L3dvIL6cXRuWnGf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/FxUfflmeplS1L3dvIL6cXRuWnGf"
+          },
+          "ppt": {
+            "token": "JANPf8281lWZR5d7IHDci7bQndy",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/JANPf8281lWZR5d7IHDci7bQndy"
+          }
+        },
+        {
+          "code": "0809",
+          "name": "计算机类",
+          "token": "KpqnfVMIgldqLydHWJBcLskynLe",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/KpqnfVMIgldqLydHWJBcLskynLe",
+          "content": {
+            "token": "VVHmfy4yslzLJsdugtVcxpmInEb",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/VVHmfy4yslzLJsdugtVcxpmInEb"
+          },
+          "ppt": {
+            "token": "CohkfangxlPFdPdRBxZcWaTfnjc",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/CohkfangxlPFdPdRBxZcWaTfnjc"
+          }
+        },
+        {
+          "code": "0810",
+          "name": "土木类",
+          "token": "SM75fhzMmlM0DXdCZPIc8D8enKu",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/SM75fhzMmlM0DXdCZPIc8D8enKu",
+          "content": {
+            "token": "I6VKfgSHWlX6Hxd2sh2c5XcInTc",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/I6VKfgSHWlX6Hxd2sh2c5XcInTc"
+          },
+          "ppt": {
+            "token": "AJfMfhN5alprYKdErI8cOOCPned",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/AJfMfhN5alprYKdErI8cOOCPned"
+          }
+        },
+        {
+          "code": "0811",
+          "name": "水利类",
+          "token": "PoJafedTUlLJBbdzxc7cX12nnEd",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/PoJafedTUlLJBbdzxc7cX12nnEd",
+          "content": {
+            "token": "PZZ7fYtLglyl7cdNuzncJiejn7d",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/PZZ7fYtLglyl7cdNuzncJiejn7d"
+          },
+          "ppt": {
+            "token": "JETkflZtelvv9DdlkEtcq7pHnQy",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/JETkflZtelvv9DdlkEtcq7pHnQy"
+          }
+        },
+        {
+          "code": "0812",
+          "name": "测绘类",
+          "token": "MGyWfUW8wlVlNndbaKXc2dGgnzg",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/MGyWfUW8wlVlNndbaKXc2dGgnzg",
+          "content": {
+            "token": "MznBfkokOlCIckdYSsmc6pSfnMg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/MznBfkokOlCIckdYSsmc6pSfnMg"
+          },
+          "ppt": {
+            "token": "ZI8Zfe4JnlH0gsdUbqCcNdjBnjq",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/ZI8Zfe4JnlH0gsdUbqCcNdjBnjq"
+          }
+        },
+        {
+          "code": "0813",
+          "name": "化工与制药类",
+          "token": "KdQkfALpsl8fJ5da6wWcU9cunBc",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/KdQkfALpsl8fJ5da6wWcU9cunBc",
+          "content": {
+            "token": "Nt2Vf8RVqlkIcQdqpDhcgsXXnRb",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Nt2Vf8RVqlkIcQdqpDhcgsXXnRb"
+          },
+          "ppt": {
+            "token": "NmsVfxsUWl9wsTd1pJocbOD8nib",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/NmsVfxsUWl9wsTd1pJocbOD8nib"
+          }
+        },
+        {
+          "code": "0814",
+          "name": "地质类",
+          "token": "ISeof2hc7ll99hdOIS4cBEbtnqg",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/ISeof2hc7ll99hdOIS4cBEbtnqg",
+          "content": {
+            "token": "LSJ1ftEqmlkTRVdIUmLc73CsnAf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/LSJ1ftEqmlkTRVdIUmLc73CsnAf"
+          },
+          "ppt": {
+            "token": "Ts9Mf15gmlxzFnd6BpLcwj6hnWg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Ts9Mf15gmlxzFnd6BpLcwj6hnWg"
+          }
+        },
+        {
+          "code": "0815",
+          "name": "矿业类",
+          "token": "BV16fy8WOl982xdFhwCcJZumnoh",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/BV16fy8WOl982xdFhwCcJZumnoh",
+          "content": {
+            "token": "Tw9xfr2dxlP94LdoRlvcwdDBn5d",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Tw9xfr2dxlP94LdoRlvcwdDBn5d"
+          },
+          "ppt": {
+            "token": "Q2QYfqkYtl2ujTdV3UGcJnV8n7e",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Q2QYfqkYtl2ujTdV3UGcJnV8n7e"
+          }
+        },
+        {
+          "code": "0816",
+          "name": "纺织类",
+          "token": "DT14fCwqelW2Pcd2jfTcsPMvnxS",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/DT14fCwqelW2Pcd2jfTcsPMvnxS",
+          "content": {
+            "token": "TwObfCPjVlTNLzd3NAScYOLhnxd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/TwObfCPjVlTNLzd3NAScYOLhnxd"
+          },
+          "ppt": {
+            "token": "NI4tfDBzpl6odSdtXWVce5Mjntg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/NI4tfDBzpl6odSdtXWVce5Mjntg"
+          }
+        },
+        {
+          "code": "0817",
+          "name": "轻工类",
+          "token": "DuVXfjfH6luQjfdLixpcpw1AnIf",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/DuVXfjfH6luQjfdLixpcpw1AnIf",
+          "content": {
+            "token": "GIc8fMuEelOVc5dGNSJcUSEunRh",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/GIc8fMuEelOVc5dGNSJcUSEunRh"
+          },
+          "ppt": {
+            "token": "PoZefjClTldliMdPUTOcN0aVngc",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/PoZefjClTldliMdPUTOcN0aVngc"
+          }
+        },
+        {
+          "code": "0818",
+          "name": "交通运输类",
+          "token": "EPBif7ppClB6kEdmTf3cD9ownDe",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/EPBif7ppClB6kEdmTf3cD9ownDe",
+          "content": {
+            "token": "VxCHf8C5GlSpVWdatf6cWzfvn1g",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/VxCHf8C5GlSpVWdatf6cWzfvn1g"
+          },
+          "ppt": {
+            "token": "YFVSfWETbli1SCdelxwcVG93nzg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/YFVSfWETbli1SCdelxwcVG93nzg"
+          }
+        },
+        {
+          "code": "0819",
+          "name": "海洋工程类",
+          "token": "IlgNf1y9rlms6KdP1mjczJpLnFb",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/IlgNf1y9rlms6KdP1mjczJpLnFb",
+          "content": {
+            "token": "P6VffC0bUlB2LedklzZcx2Y1nic",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/P6VffC0bUlB2LedklzZcx2Y1nic"
+          },
+          "ppt": {
+            "token": "JQHPfMz3ClF1qFdwm6ecMS0GnFh",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/JQHPfMz3ClF1qFdwm6ecMS0GnFh"
+          }
+        },
+        {
+          "code": "0820",
+          "name": "航空航天类",
+          "token": "DkO3fZYgIleQRldhGWYclbF9n7e",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/DkO3fZYgIleQRldhGWYclbF9n7e",
+          "content": {
+            "token": "VD19fE0AtlXtPkdEzaqcpuBAnUg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/VD19fE0AtlXtPkdEzaqcpuBAnUg"
+          },
+          "ppt": {
+            "token": "YKNYfDIrzlaFgiddD1OcoYbKnvh",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/YKNYfDIrzlaFgiddD1OcoYbKnvh"
+          }
+        },
+        {
+          "code": "0821",
+          "name": "兵器类",
+          "token": "VeiMfEdKTlRo8idc73ccsRX8nBb",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/VeiMfEdKTlRo8idc73ccsRX8nBb",
+          "content": {
+            "token": "TLhTfWaMflcEPQdS1cncxeBmnrg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/TLhTfWaMflcEPQdS1cncxeBmnrg"
+          },
+          "ppt": {
+            "token": "JBNufyyoMl9Nc5dALDXceh5Pnrc",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/JBNufyyoMl9Nc5dALDXceh5Pnrc"
+          }
+        },
+        {
+          "code": "0822",
+          "name": "核工程类",
+          "token": "NfgIf446XlYfcdd1KBmcso6Rnmf",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/NfgIf446XlYfcdd1KBmcso6Rnmf",
+          "content": {
+            "token": "DG3xfpikFlPk72da6Bec3hhWnEe",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/DG3xfpikFlPk72da6Bec3hhWnEe"
+          },
+          "ppt": {
+            "token": "KDcbfU7uDlniXedQp4qcsucTnGc",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/KDcbfU7uDlniXedQp4qcsucTnGc"
+          }
+        },
+        {
+          "code": "0823",
+          "name": "农业工程类",
+          "token": "ORYKfzykal50rOdcGjFcw9LWnuf",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/ORYKfzykal50rOdcGjFcw9LWnuf",
+          "content": {
+            "token": "QMHofLYpPlv8vnddZ5vctJkfnUa",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/QMHofLYpPlv8vnddZ5vctJkfnUa"
+          },
+          "ppt": {
+            "token": "UFluff06KlOkVhdqMzZcCTXknxc",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/UFluff06KlOkVhdqMzZcCTXknxc"
+          }
+        },
+        {
+          "code": "0824",
+          "name": "林业工程类",
+          "token": "Z4jKfBxE3lo6GSdipJsc9TJln6g",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/Z4jKfBxE3lo6GSdipJsc9TJln6g",
+          "content": {
+            "token": "S6BfflrkNltejKdMOupchupEnSf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/S6BfflrkNltejKdMOupchupEnSf"
+          },
+          "ppt": {
+            "token": "MlH2fLWJ5laKbHdSuMicbEtxnPd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/MlH2fLWJ5laKbHdSuMicbEtxnPd"
+          }
+        },
+        {
+          "code": "0825",
+          "name": "环境科学与工程类",
+          "token": "ADnXf982vlTpxFdrNUVcVzJTnhe",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/ADnXf982vlTpxFdrNUVcVzJTnhe",
+          "content": {
+            "token": "CDKSfi4KvlZoQ5daJMDccpM9nFg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/CDKSfi4KvlZoQ5daJMDccpM9nFg"
+          },
+          "ppt": {
+            "token": "RprYfPM7tlD9Pxdn4uSckceVnkf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/RprYfPM7tlD9Pxdn4uSckceVnkf"
+          }
+        },
+        {
+          "code": "0826",
+          "name": "生物医学工程类",
+          "token": "DRFcfzF29lUUdndnI1Mcw8zqnd9",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/DRFcfzF29lUUdndnI1Mcw8zqnd9",
+          "content": {
+            "token": "T2m4f7AV9lZnn1dxxELcFqD6n1f",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/T2m4f7AV9lZnn1dxxELcFqD6n1f"
+          },
+          "ppt": {
+            "token": "I5AifIldLleLZhdblXicrzX0nYf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/I5AifIldLleLZhdblXicrzX0nYf"
+          }
+        },
+        {
+          "code": "0827",
+          "name": "食品科学与工程类",
+          "token": "ZzE6fGPWel1IvtdDQczcZTA1nic",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/ZzE6fGPWel1IvtdDQczcZTA1nic",
+          "content": {
+            "token": "S6i1foqjxl7yKTdQQ2gcHnt3nzd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/S6i1foqjxl7yKTdQQ2gcHnt3nzd"
+          },
+          "ppt": {
+            "token": "C7IofVWE3la68CdOtv6cIynMnLg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/C7IofVWE3la68CdOtv6cIynMnLg"
+          }
+        },
+        {
+          "code": "0828",
+          "name": "建筑类",
+          "token": "SULHf5tRBlKzjFd7AzHcN8dVnzd",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/SULHf5tRBlKzjFd7AzHcN8dVnzd",
+          "content": {
+            "token": "NqaYf8ECUl4DXNdb12jcsgyTnUg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/NqaYf8ECUl4DXNdb12jcsgyTnUg"
+          },
+          "ppt": {
+            "token": "SKXXf0zSDl6mmJdTl3iczNGWnmd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/SKXXf0zSDl6mmJdTl3iczNGWnmd"
+          }
+        },
+        {
+          "code": "0829",
+          "name": "安全科学与工程类",
+          "token": "AsgBfdmSfldjOzdNJhHcSzmnn1e",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/AsgBfdmSfldjOzdNJhHcSzmnn1e",
+          "content": {
+            "token": "KrF4fTPe6lW2iZdEhjhcrSP4n13",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/KrF4fTPe6lW2iZdEhjhcrSP4n13"
+          },
+          "ppt": {
+            "token": "SFGrfaaahlIwRAdLr0qcPSZNnXd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/SFGrfaaahlIwRAdLr0qcPSZNnXd"
+          }
+        },
+        {
+          "code": "0830",
+          "name": "生物工程类",
+          "token": "OxkdftIhPlE1TMdbrcDcSji0nZY",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/OxkdftIhPlE1TMdbrcDcSji0nZY",
+          "content": {
+            "token": "BQeRfBeNmlhMC6dCp7FcJNdqnTc",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/BQeRfBeNmlhMC6dCp7FcJNdqnTc"
+          },
+          "ppt": {
+            "token": "VgdhfRXjQlYcwGd1hOGcxleensf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/VgdhfRXjQlYcwGd1hOGcxleensf"
+          }
+        },
+        {
+          "code": "0831",
+          "name": "公安技术类",
+          "token": "GUWrfLodtlb3wHdnus4cMlL3nks",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/GUWrfLodtlb3wHdnus4cMlL3nks",
+          "content": {
+            "token": "Drr8fZ5YmlFohQdmTuDcob0hnDb",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Drr8fZ5YmlFohQdmTuDcob0hnDb"
+          },
+          "ppt": {
+            "token": "NKKSftrbtlSuA5diFiscJddWnyb",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/NKKSftrbtlSuA5diFiscJddWnyb"
+          }
+        }
+      ]
+    },
+    {
+      "code": "09",
+      "name": "农学",
+      "token": "UtecfjMbvl0L9Hdle3xci9egnyh",
+      "url": "https://gezhiedu.feishu.cn/drive/folder/UtecfjMbvl0L9Hdle3xci9egnyh",
+      "classes": [
+        {
+          "code": "0901",
+          "name": "植物生产类",
+          "token": "CNSXfITMPlFQTMdntf7c3a5InBe",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/CNSXfITMPlFQTMdntf7c3a5InBe",
+          "content": {
+            "token": "STqDfyv9Ll6frSdRdDpc4chqnkh",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/STqDfyv9Ll6frSdRdDpc4chqnkh"
+          },
+          "ppt": {
+            "token": "M68lffRdzlAa4udjzvicR7ktnQb",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/M68lffRdzlAa4udjzvicR7ktnQb"
+          }
+        },
+        {
+          "code": "0902",
+          "name": "自然保护与环境生态类",
+          "token": "HfntfXJKtlhgHddEokxcfAuFn6e",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/HfntfXJKtlhgHddEokxcfAuFn6e",
+          "content": {
+            "token": "Z79XfciOblNKafdeHVncioZBndf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Z79XfciOblNKafdeHVncioZBndf"
+          },
+          "ppt": {
+            "token": "Hm6kfhAQmlXE6Edc2UEc0fnQnFg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Hm6kfhAQmlXE6Edc2UEc0fnQnFg"
+          }
+        },
+        {
+          "code": "0903",
+          "name": "动物生产类",
+          "token": "JyQLf80B0lxeYddoUH6ceIpLnIc",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/JyQLf80B0lxeYddoUH6ceIpLnIc",
+          "content": {
+            "token": "Gi17fwyzflnrDydxM2xcdmPynke",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Gi17fwyzflnrDydxM2xcdmPynke"
+          },
+          "ppt": {
+            "token": "KpBBfcj8ylAyQkdTjWachsSgnBd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/KpBBfcj8ylAyQkdTjWachsSgnBd"
+          }
+        },
+        {
+          "code": "0904",
+          "name": "动物医学类",
+          "token": "SZ02fDrCdlpKxPdBveYcIYo9nSb",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/SZ02fDrCdlpKxPdBveYcIYo9nSb",
+          "content": {
+            "token": "SBS3fjKtmlB40adkbTEcU6gun2e",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/SBS3fjKtmlB40adkbTEcU6gun2e"
+          },
+          "ppt": {
+            "token": "RnIafG0OElxYFadFKJQcQ3HbnLg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/RnIafG0OElxYFadFKJQcQ3HbnLg"
+          }
+        },
+        {
+          "code": "0905",
+          "name": "林学类",
+          "token": "KrsQf8C2KlHG7ndZPwFc4cyCnkd",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/KrsQf8C2KlHG7ndZPwFc4cyCnkd",
+          "content": {
+            "token": "SQl3faIV3lHMAbdHa0AcCR06nOf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/SQl3faIV3lHMAbdHa0AcCR06nOf"
+          },
+          "ppt": {
+            "token": "NXt4fDu3gl3sZ1dvcQCc29OQndd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/NXt4fDu3gl3sZ1dvcQCc29OQndd"
+          }
+        },
+        {
+          "code": "0906",
+          "name": "水产类",
+          "token": "SkAvfYuq6l2bQwd0qmPcnQFUnAS",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/SkAvfYuq6l2bQwd0qmPcnQFUnAS",
+          "content": {
+            "token": "VVQofVb3ElwVOGd7oHJcOa0tnKf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/VVQofVb3ElwVOGd7oHJcOa0tnKf"
+          },
+          "ppt": {
+            "token": "FmmefGWpHlCNV1dRgz5cueYUnyb",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/FmmefGWpHlCNV1dRgz5cueYUnyb"
+          }
+        },
+        {
+          "code": "0907",
+          "name": "草学类",
+          "token": "Qjgef29oklYywJdSgQ2cHUYnnCc",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/Qjgef29oklYywJdSgQ2cHUYnnCc",
+          "content": {
+            "token": "PdDHfkM6ql0s3jdQnO7c21x8nUb",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/PdDHfkM6ql0s3jdQnO7c21x8nUb"
+          },
+          "ppt": {
+            "token": "G0MtfOYmCluzNVdaQzIcEO6TnKc",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/G0MtfOYmCluzNVdaQzIcEO6TnKc"
+          }
+        }
+      ]
+    },
+    {
+      "code": "10",
+      "name": "医学",
+      "token": "OcVDftCsrl6RHxdLDOCcqPv6n3d",
+      "url": "https://gezhiedu.feishu.cn/drive/folder/OcVDftCsrl6RHxdLDOCcqPv6n3d",
+      "classes": [
+        {
+          "code": "1001",
+          "name": "基础医学类",
+          "token": "MSMnfaghVlvkF8dmZCDcNOjinBb",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/MSMnfaghVlvkF8dmZCDcNOjinBb",
+          "content": {
+            "token": "SuiAfrf6yl6SiTdcm8HcZubdnHd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/SuiAfrf6yl6SiTdcm8HcZubdnHd"
+          },
+          "ppt": {
+            "token": "Tzo5fPiAwl9xs4dUnfAcVQ0EnPg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Tzo5fPiAwl9xs4dUnfAcVQ0EnPg"
+          }
+        },
+        {
+          "code": "1002",
+          "name": "临床医学类",
+          "token": "Q0sTf5D2wlDbf5dM61QcyKHTnHb",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/Q0sTf5D2wlDbf5dM61QcyKHTnHb",
+          "content": {
+            "token": "NenufdB4Ml3xtddxfHXcy6gxnce",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/NenufdB4Ml3xtddxfHXcy6gxnce"
+          },
+          "ppt": {
+            "token": "Db2jfWirNlS5p5d6J3ncJRkXnEf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Db2jfWirNlS5p5d6J3ncJRkXnEf"
+          }
+        },
+        {
+          "code": "1003",
+          "name": "口腔医学类",
+          "token": "NTDofKoVzlBT21dd8g5ccx7wnje",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/NTDofKoVzlBT21dd8g5ccx7wnje",
+          "content": {
+            "token": "MXWXfLxBnlNWScdPPYhc6CP6nbc",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/MXWXfLxBnlNWScdPPYhc6CP6nbc"
+          },
+          "ppt": {
+            "token": "SLQ3fzkP8lC5aada3Rnc1TBdnMd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/SLQ3fzkP8lC5aada3Rnc1TBdnMd"
+          }
+        },
+        {
+          "code": "1004",
+          "name": "公共卫生与预防医学类",
+          "token": "F39TfzYx4lAuR2deHwJcrcGUnwg",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/F39TfzYx4lAuR2deHwJcrcGUnwg",
+          "content": {
+            "token": "KkpWfAahOlKMmRdzoEZc9Kstn5e",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/KkpWfAahOlKMmRdzoEZc9Kstn5e"
+          },
+          "ppt": {
+            "token": "MfpyfFSVUlHzzWdfFD1cjKXunce",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/MfpyfFSVUlHzzWdfFD1cjKXunce"
+          }
+        },
+        {
+          "code": "1005",
+          "name": "中医学类",
+          "token": "Gm84fMhIUlW7BedhFK6cVbdVnGh",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/Gm84fMhIUlW7BedhFK6cVbdVnGh",
+          "content": {
+            "token": "Vp73fOQRVl0qQndwe2Qcj2YsnQh",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Vp73fOQRVl0qQndwe2Qcj2YsnQh"
+          },
+          "ppt": {
+            "token": "ShaSfR910lQVQSdDNY9cdEE1njc",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/ShaSfR910lQVQSdDNY9cdEE1njc"
+          }
+        },
+        {
+          "code": "1006",
+          "name": "中西医结合类",
+          "token": "DOLrfJX9Rl7qpsdqb6wcpVrtn8g",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/DOLrfJX9Rl7qpsdqb6wcpVrtn8g",
+          "content": {
+            "token": "FzFqfixbalGFzbdSEzSc4NlPngh",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/FzFqfixbalGFzbdSEzSc4NlPngh"
+          },
+          "ppt": {
+            "token": "OX5UfaFSMlcnVxdLt1OcFnnMnge",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/OX5UfaFSMlcnVxdLt1OcFnnMnge"
+          }
+        },
+        {
+          "code": "1007",
+          "name": "药学类",
+          "token": "CHavfrNP2lvtbwdCdENcOezNntc",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/CHavfrNP2lvtbwdCdENcOezNntc",
+          "content": {
+            "token": "Sf9IfhISolSMnRdnJVxcZFfrnPb",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Sf9IfhISolSMnRdnJVxcZFfrnPb"
+          },
+          "ppt": {
+            "token": "X5XHfLmnela5ZCdPWe3cpg2tntd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/X5XHfLmnela5ZCdPWe3cpg2tntd"
+          }
+        },
+        {
+          "code": "1008",
+          "name": "中药学类",
+          "token": "IptXf8vgklDRHOdMteUce5SxnXd",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/IptXf8vgklDRHOdMteUce5SxnXd",
+          "content": {
+            "token": "SRTKffUrFl5GsadeHhDcbhpAndm",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/SRTKffUrFl5GsadeHhDcbhpAndm"
+          },
+          "ppt": {
+            "token": "CyJ5fkTjvlzgPodQjCZcDQevnBh",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/CyJ5fkTjvlzgPodQjCZcDQevnBh"
+          }
+        },
+        {
+          "code": "1009",
+          "name": "法医学类",
+          "token": "Fi1Bf1bc7laAPSdQMCXcFw0CnBc",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/Fi1Bf1bc7laAPSdQMCXcFw0CnBc",
+          "content": {
+            "token": "Qfy9fmJEelN6QYdhEF9c3Vgwnfc",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Qfy9fmJEelN6QYdhEF9c3Vgwnfc"
+          },
+          "ppt": {
+            "token": "P0VRfQOXil5sbkdaBnocDwApn3g",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/P0VRfQOXil5sbkdaBnocDwApn3g"
+          }
+        },
+        {
+          "code": "1010",
+          "name": "医学技术类",
+          "token": "JuYXfHnRElLErydlXdicd1aVnke",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/JuYXfHnRElLErydlXdicd1aVnke",
+          "content": {
+            "token": "L91mfO6abl9BERdRj4TcQqMCnNq",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/L91mfO6abl9BERdRj4TcQqMCnNq"
+          },
+          "ppt": {
+            "token": "UE1CfcmNeltNDmdjvQkcrb0Dnke",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/UE1CfcmNeltNDmdjvQkcrb0Dnke"
+          }
+        },
+        {
+          "code": "1011",
+          "name": "护理学类",
+          "token": "QwIyfPiqJlxUvAdcMFicapXEnCb",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/QwIyfPiqJlxUvAdcMFicapXEnCb",
+          "content": {
+            "token": "Ksi8fcqiNlHB4Vd8Vv0c5hEcnE4",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Ksi8fcqiNlHB4Vd8Vv0c5hEcnE4"
+          },
+          "ppt": {
+            "token": "Un2PfVupElZ7aIdtcqecDzyQneb",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Un2PfVupElZ7aIdtcqecDzyQneb"
+          }
+        }
+      ]
+    },
+    {
+      "code": "12",
+      "name": "管理学",
+      "token": "Rmt9flHfPlsPPgdg90ocNNianRg",
+      "url": "https://gezhiedu.feishu.cn/drive/folder/Rmt9flHfPlsPPgdg90ocNNianRg",
+      "classes": [
+        {
+          "code": "1201",
+          "name": "管理科学与工程类",
+          "token": "HCpYfz2hElf3Upd4QHHc3bOjnJf",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/HCpYfz2hElf3Upd4QHHc3bOjnJf",
+          "content": {
+            "token": "EqnxfErlrlh14PdopBzcJHPnnqd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/EqnxfErlrlh14PdopBzcJHPnnqd"
+          },
+          "ppt": {
+            "token": "AIEmfOH6FlmoPFdB1eacCpvwntd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/AIEmfOH6FlmoPFdB1eacCpvwntd"
+          }
+        },
+        {
+          "code": "1202",
+          "name": "工商管理类",
+          "token": "LaTWf6Qculpl97droedcEgRAnOY",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/LaTWf6Qculpl97droedcEgRAnOY",
+          "content": {
+            "token": "SpbxfEhZIl3cfKdqy7NcMvnqnWd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/SpbxfEhZIl3cfKdqy7NcMvnqnWd"
+          },
+          "ppt": {
+            "token": "POV9fXG9AlONqydritPcvDKxn5e",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/POV9fXG9AlONqydritPcvDKxn5e"
+          }
+        },
+        {
+          "code": "1203",
+          "name": "农业经济管理类",
+          "token": "SXitfruYplNbZbdNDHqc92HUnMf",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/SXitfruYplNbZbdNDHqc92HUnMf",
+          "content": {
+            "token": "GMzvfHGSZlkf3Ydaqarc4yVonUg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/GMzvfHGSZlkf3Ydaqarc4yVonUg"
+          },
+          "ppt": {
+            "token": "QsoBf9Sw8lxwN3d1inJcMIhTnYg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/QsoBf9Sw8lxwN3d1inJcMIhTnYg"
+          }
+        },
+        {
+          "code": "1204",
+          "name": "公共管理类",
+          "token": "Ll0PfADmjl0Uc5dG9cdcggHFnI9",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/Ll0PfADmjl0Uc5dG9cdcggHFnI9",
+          "content": {
+            "token": "RN5afAVwNlw5w0dPey0ctd4enqg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/RN5afAVwNlw5w0dPey0ctd4enqg"
+          },
+          "ppt": {
+            "token": "DwNifo4FhlDZjZdNkVwcBLyXn9g",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/DwNifo4FhlDZjZdNkVwcBLyXn9g"
+          }
+        },
+        {
+          "code": "1205",
+          "name": "图书情报与档案管理类",
+          "token": "QO1ff7ydglXe0CdA3xfcdQ8dnKh",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/QO1ff7ydglXe0CdA3xfcdQ8dnKh",
+          "content": {
+            "token": "N8qpfHNU5lpZ0CdusVhcCMdmnbc",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/N8qpfHNU5lpZ0CdusVhcCMdmnbc"
+          },
+          "ppt": {
+            "token": "IbMsfqlC5lFcn7d3Ye4ckkTJn9b",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/IbMsfqlC5lFcn7d3Ye4ckkTJn9b"
+          }
+        },
+        {
+          "code": "1206",
+          "name": "物流管理与工程类",
+          "token": "REUEfeg6tlCIOsdcAWWcLsgXnHo",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/REUEfeg6tlCIOsdcAWWcLsgXnHo",
+          "content": {
+            "token": "YyRyf6wOilTSqUd7WZlceT77nh6",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/YyRyf6wOilTSqUd7WZlceT77nh6"
+          },
+          "ppt": {
+            "token": "CaPrfImDyla0AWdVmO4cWr0anDd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/CaPrfImDyla0AWdVmO4cWr0anDd"
+          }
+        },
+        {
+          "code": "1207",
+          "name": "工业工程类",
+          "token": "FqwZfIAITl63sqd7e0ic6HainUh",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/FqwZfIAITl63sqd7e0ic6HainUh",
+          "content": {
+            "token": "DYLZfrUdmlnms0dYSzjcFSLLnI3",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/DYLZfrUdmlnms0dYSzjcFSLLnI3"
+          },
+          "ppt": {
+            "token": "ZKU2fw0wml2WGJdxgpucoPX3nKf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/ZKU2fw0wml2WGJdxgpucoPX3nKf"
+          }
+        },
+        {
+          "code": "1208",
+          "name": "电子商务类",
+          "token": "G0qTfS0HJlJIPedGFYNcejxcnGb",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/G0qTfS0HJlJIPedGFYNcejxcnGb",
+          "content": {
+            "token": "J3AqfYQw3llC7FdcLDpcNS3QnCh",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/J3AqfYQw3llC7FdcLDpcNS3QnCh"
+          },
+          "ppt": {
+            "token": "Hxjyf7hpLlBRYqdZFEmcnwqmnkf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Hxjyf7hpLlBRYqdZFEmcnwqmnkf"
+          }
+        },
+        {
+          "code": "1209",
+          "name": "旅游管理类",
+          "token": "LUTafOfsnlxXbJdZnPkchYsZnqf",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/LUTafOfsnlxXbJdZnPkchYsZnqf",
+          "content": {
+            "token": "W3qJftX7Glrqmzd2IDMcEoa5nHq",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/W3qJftX7Glrqmzd2IDMcEoa5nHq"
+          },
+          "ppt": {
+            "token": "VCMNfcSa6lGIp9dTYuDczdy8nzg",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/VCMNfcSa6lGIp9dTYuDczdy8nzg"
+          }
+        }
+      ]
+    },
+    {
+      "code": "13",
+      "name": "艺术学",
+      "token": "VTuufABHilB8h8dCrj4czyDonYB",
+      "url": "https://gezhiedu.feishu.cn/drive/folder/VTuufABHilB8h8dCrj4czyDonYB",
+      "classes": [
+        {
+          "code": "1301",
+          "name": "艺术学理论类",
+          "token": "Ii7mfoU1FlpLc6dSKEPc0YQFnNA",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/Ii7mfoU1FlpLc6dSKEPc0YQFnNA",
+          "content": {
+            "token": "BQKRfuMJHlJ8rOdHQqccu9nfntd",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/BQKRfuMJHlJ8rOdHQqccu9nfntd"
+          },
+          "ppt": {
+            "token": "T4x9fYghUlRQHGdxf9ScgwWnn1f",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/T4x9fYghUlRQHGdxf9ScgwWnn1f"
+          }
+        },
+        {
+          "code": "1302",
+          "name": "音乐与舞蹈学类",
+          "token": "ARxXf4n21lT5G3dg1ovckSwonOg",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/ARxXf4n21lT5G3dg1ovckSwonOg",
+          "content": {
+            "token": "Jb5nfHb2Hl9jb4d8CVecR5dbn5b",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Jb5nfHb2Hl9jb4d8CVecR5dbn5b"
+          },
+          "ppt": {
+            "token": "R8Lyf3kWelCO6gdDtmWcDFEPn3f",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/R8Lyf3kWelCO6gdDtmWcDFEPn3f"
+          }
+        },
+        {
+          "code": "1303",
+          "name": "戏剧与影视学类",
+          "token": "TsBFfP9ztlzVEVdYDq6cqghYnth",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/TsBFfP9ztlzVEVdYDq6cqghYnth",
+          "content": {
+            "token": "Xbp2fWwrol5B9mdVetQc5gjMnF3",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Xbp2fWwrol5B9mdVetQc5gjMnF3"
+          },
+          "ppt": {
+            "token": "Dsf8fQSinlaaqDdwgTHcIJK4nuf",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/Dsf8fQSinlaaqDdwgTHcIJK4nuf"
+          }
+        },
+        {
+          "code": "1304",
+          "name": "美术学类",
+          "token": "R3psfaWIcleeOVdd04Qcp1w6nN8",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/R3psfaWIcleeOVdd04Qcp1w6nN8",
+          "content": {
+            "token": "FXw2fGEqFlLfZ9dkiIPcw3XSn0c",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/FXw2fGEqFlLfZ9dkiIPcw3XSn0c"
+          },
+          "ppt": {
+            "token": "WutRfcDbrlIbLvduyzicCkTPnpe",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/WutRfcDbrlIbLvduyzicCkTPnpe"
+          }
+        },
+        {
+          "code": "1305",
+          "name": "设计学类",
+          "token": "I9a8feaazlbeFpdRogecqOyKnrd",
+          "url": "https://gezhiedu.feishu.cn/drive/folder/I9a8feaazlbeFpdRogecqOyKnrd",
+          "content": {
+            "token": "PTe3f8N3ulalaEdyk1rc5lzxnGh",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/PTe3f8N3ulalaEdyk1rc5lzxnGh"
+          },
+          "ppt": {
+            "token": "EQLkfE8VelUfKldK5ZccgJCnnuc",
+            "url": "https://gezhiedu.feishu.cn/drive/folder/EQLkfE8VelUfKldK5ZccgJCnnuc"
+          }
+        }
+      ]
+    },
+    {
+      "code": "14",
+      "name": "交叉学科",
+      "token": "HiOWfXNuDlhIQ5dynGmcza4DnPW",
+      "url": "https://gezhiedu.feishu.cn/drive/folder/HiOWfXNuDlhIQ5dynGmcza4DnPW",
+      "classes": []
+    }
+  ]
+}
